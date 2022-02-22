@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @LdSH-dev
+- 👀 I’m interested in PHP, Python and Software Security
+- 🌱 I’m currently learning PHP and Python 
+- 💞️ I’m looking to collaborate on Python and PHP projects
+- 📫 How to reach me https://www.linkedin.com/in/leonardo-da-silva-hemming-71a81120b/
