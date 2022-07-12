@@ -1,7 +1,5 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Leonardo Hemming
-- 👀 I’m interested in Python, Machine Learning and Software Security
-- 💞️ I’m looking to collaborate on Python and JS projects
 
 <div>
 <a href="https://github.com/LdSH-dev">
