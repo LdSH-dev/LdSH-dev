@@ -3,8 +3,8 @@
 
 <div>
 <a href="https://github.com/LdSH-dev">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LdSH-dev&layout=compact&langs_count=10&theme=gruvbox_light"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LdSH-dev&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LdSH-dev&layout=compact&theme=gruvbox&langs_count=10"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LdSH-dev&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
 </div>
 
 ### Technologies
