@@ -24,7 +24,7 @@
 <a href="https://www.linkedin.com/in/leonardo-da-silva-hemming-71a81120b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
  
- ![Codewars](https://github.r2v.ch/codewars?user=LdSH-dev89&stroke=%23BB432C)
+ ![Codewars](https://github.r2v.ch/codewars?user=LdSH-dev&stroke=%23BB432C)
 
  
  ### Activity
