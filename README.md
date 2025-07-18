@@ -17,8 +17,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LdSH-dev&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LdSH-dev&layout=compact&theme=gruvbox&langs_count=8"/>
+  <a href="https://github.com/LdSH-dev">
+    <img width="470em" src="http://github-readme-streak-stats.herokuapp.com?user=LdSH-dev&theme=dark&hide_border=true"/>
+    <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LdSH-dev&hide_progress=false&layout=compact&lang_count=10&theme=dark&border_color=#000000"/>
+  </a>
 </div>
 
 ---
