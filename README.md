@@ -4,7 +4,6 @@
 I'm a passionate software engineer focused on delivering smart, scalable, and elegant solutions. With over 5 years of professional experience in backend and full-stack development, I specialize in building systems that solve real problems and make an impact.
 
 - ✈️ Based in Brazil, open to remote and international opportunities
-- 🧩 Currently building healthcare SaaS platforms across Europe and Brazil
 - 📈 Driven by clean code, product thinking, and measurable results
 
 ---
