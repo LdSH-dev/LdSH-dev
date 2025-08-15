@@ -2,7 +2,7 @@
 <h3 align="center">Full-stack Software Engineer | Backend Specialist | AI & SaaS Enthusiast</h3>
 
 <p align="center">
-  💼 5+ years of experience building scalable systems in healthcare, fintech and SaaS <br/>
+  💼 6+ years of experience building scalable systems in healthcare, fintech and SaaS <br/>
   🌍 Passionate about building products that make a global impact
 </p>
 
